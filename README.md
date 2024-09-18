@@ -1,0 +1,5 @@
+- 👋 Un gusto, soy Santiago Montenegro
+- 🌱 Actualmente me encuentro en proceso de aprendizaje
+- 💞️ Me interesa el mundo de la programación
+- 📫 Trabajo diariamente en mi crecimiento y desarrollo personal.
+- No dudes en contactarme, siempre estoy dispuesto a nuevos retos.
